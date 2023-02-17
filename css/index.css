@@ -44,8 +44,11 @@ header {
     font-size: 35px;
     font-weight: bold;
 }
-
+.nav-middle {
+    user-select:none;   
+}
 .nav-items-list{
+    user-select:none;
     cursor: pointer;
     display: flex;
     list-style: none;
