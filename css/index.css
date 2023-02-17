@@ -52,6 +52,7 @@ header {
     /* padding: 10px; */
 }
 .nav-items{
+    user-select: none;
     font-size: 18px;
     font-weight: bold;
     margin-right: 20px;
